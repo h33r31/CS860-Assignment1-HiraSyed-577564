@@ -1,3 +1,11 @@
+# CS-860 Artificial Intelligence
+# Assignment 1
+# Name: Hira Syed
+# Reg No: 577564
+
+
+
+
 print("#1  Write a program to check whether a person is eligible for voting or not. (input age from user)")
 # Input age from user
 age = int(input("Enter your age: "))
@@ -482,5 +490,6 @@ else:
     print(num, "is not an Armstrong number.")
 
 PrintArmstrong(1,500)
+
 
 print("---------------------------THE END--------------------------------------------")
